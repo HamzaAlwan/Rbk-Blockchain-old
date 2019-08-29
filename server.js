@@ -8,7 +8,6 @@ var make_upload_to_model = filePluginLib.make_upload_to_model;
 var db = require("./database/db.js");
 
 var app = express();
-var me;
 
 app.set("port", process.env.PORT || 3000);
 app.use(express.static(__dirname + "/"));
