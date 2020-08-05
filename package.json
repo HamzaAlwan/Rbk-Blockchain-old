@@ -15,7 +15,7 @@
     "dm-file-uploader": "^1.0.2",
     "express": "^4.16.4",
     "express-basic-auth": "^1.1.6",
-    "express-fileupload": "^1.0.0",
+    "express-fileupload": "^1.1.9",
     "formidable": "^1.2.1",
     "mongoose": "^5.3.4",
     "mongoose-file": "0.0.2",
